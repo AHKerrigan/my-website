@@ -23,6 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
+    company: UCF Center for Research in Computer Vision
+    company_url: https://www.crcv.ucf.edu/
+    company_logo: ''
+    location: Florida
+    date_start: '2021-1-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Performed research involving modeling of driver behavior with evolving neural networks).·
+        * Optimized C++ experiment code to run on parallel CPU clusters and reduced training time by 20%
+
+  - title: Research Assistant
     company: UCF Intelligent Systems Lab
     company_url: ''
     company_logo: ''
