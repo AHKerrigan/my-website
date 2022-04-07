@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: UCF Center for Research in Computer Vision
-    company_url: ''
-    company_logo: ''
+    company_url: https://www.crcv.ucf.edu/
+    company_logo: CRCV
     location: Florida
     date_start: '2021-01-01'
     date_end: ''
@@ -35,10 +35,10 @@ experience:
         * Performed research involving modeling of driver behavior with evolving neural networks).·
         * Optimized C++ experiment code to run on parallel CPU clusters and reduced training time by 20%
 
-  - title: Research Assistant test
+  - title: Research Assistant
     company: UCF Intelligent Systems Lab
     company_url: ''
-    company_logo: ''
+    company_logo: ucf
     location: Florida
     date_start: '2019-12-01'
     date_end: '2020-12-01'
@@ -50,8 +50,8 @@ experience:
         
   - title: Software Engineering Intern
     company: Florida Space Institute
-    company_url: ''
-    company_logo: ''
+    company_url: https://fsi.ucf.edu/
+    company_logo: ucf
     location: Florida
     date_start: '2019-05-01'
     date_end: '2019-08-01'
