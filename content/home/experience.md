@@ -34,7 +34,7 @@ experience:
         * Performed research involving modeling of driver behavior with evolving neural networks).·
         * Optimized C++ experiment code to run on parallel CPU clusters and reduced training time by 20%
 
-  - title: Research Assistant
+  - title: Research Assistant test
     company: UCF Intelligent Systems Lab
     company_url: ''
     company_logo: ''
