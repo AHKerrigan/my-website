@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: UCF Center for Research in Computer Vision
-    company_url: 'https://www.crcv.ucf.edu/'
+    company_url: ''
     company_logo: ''
     location: Florida
     date_start: '2021-1-01'
