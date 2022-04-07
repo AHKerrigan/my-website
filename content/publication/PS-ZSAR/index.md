@@ -48,7 +48,7 @@ image:
   focal_point: center
   preview_only: false
   filename: architecture3-1-.png
-date: 2015-09-01T00:00:00.000Z
+date: 2022-04-07T01:31:48.151Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
