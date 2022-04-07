@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Reformulating Zero-shot Action Recognition for Multi-label Actions"
 authors:
 - admin
 - Robert Ford
