@@ -38,7 +38,7 @@ experience:
   - title: Software Engineering Intern
     company: Florida Space Institute
     company_url: ''
-    company_logo: ''
+    company_logo: 'ucf'
     location: Florida
     date_start: '2019-05-01'
     date_end: '2019-08-01'
