@@ -22,29 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: UCF Intelligent Systems Lab
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: ''
+    location: Florida
+    date_start: '2019-12-01'
+    date_end: '2020-12-01'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Performed research involving modeling of driver behavior with evolving neural networks).·
+        * Optimized C++ experiment code to run on parallel CPU clusters and reduced training time by 20%
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Software Engineering Intern
+    company: Florida Space Institute
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    company_logo: ''
+    location: Florida
+    date_start: '2019-05-01'
+    date_end: '2019-08-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Worked on Python dev team for $500k CubeSat satellite for the Center for Microgravity Research.
+        * Utilized PySerial to develop novel methods of file transfer from raspberry pi to micro-controller.
+        * Solved multiple satellite communication issues preventing launch and increased transfer speed by 30%.
+        
 design:
   columns: '2'
 ---
