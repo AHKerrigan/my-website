@@ -69,6 +69,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a second year PhD student at the University of Central Florida Center for Research in Computer Vision. I'm broadly interested in Computer Vision with a particular interest in meta-learning and learning with sparse data. I graduated from UCF with a Bachelors in Computer Science in 2020. I have a passion for all things Artificial Intelligence and write about them here.
+I am a second year PhD student at the University of Central Florida Center for Research in Computer Vision. I'm broadly interested in Computer Vision with a particular interest in meta-learning and learning with sparse data. I graduated from UCF with a Bachelors in Computer Science in 2020. I have a passion for all things Artificial Intelligence and write about them here
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
