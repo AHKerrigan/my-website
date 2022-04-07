@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: ''
     location: Florida
-    date_start: '2021-1-01'
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -38,7 +38,7 @@ experience:
   - title: Research Assistant test
     company: UCF Intelligent Systems Lab
     company_url: ''
-    company_logo: ''
+    company_logo: ucf
     location: Florida
     date_start: '2019-12-01'
     date_end: '2020-12-01'
@@ -51,7 +51,7 @@ experience:
   - title: Software Engineering Intern
     company: Florida Space Institute
     company_url: ''
-    company_logo: ''
+    company_logo: ucf
     location: Florida
     date_start: '2019-05-01'
     date_end: '2019-08-01'
