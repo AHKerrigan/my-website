@@ -28,6 +28,7 @@ experience:
     company_logo: ''
     location: Florida
     date_start: '2021-1-01'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
